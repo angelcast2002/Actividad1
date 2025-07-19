@@ -29,3 +29,11 @@
 - Shazam Counts: Numérico (int)
 - TIDAL Popularity: Numérico (int)
 - Explicit Track: Boolean
+
+## Cantidad de columnas 
+- 29
+
+## Cantidad de filas
+- 4600
+
+## Estadísticas del DataSet
